@@ -15,11 +15,11 @@
 
 Hi! I'm **Amirhossein**, a passionate **Python developer** and **bot creator** from Iran 🇮🇷.
 
-I love building things that make life easier and more fun — from Telegram/Bale bots to web apps and open-source tools. My journey started with Python, and now I'm exploring the endless possibilities of **AI, automation, and the cosmos**. 🌌
+I love building things that make life easier and more fun — from web apps to open-source tools. My journey started with Python, and now I'm exploring the endless possibilities of **AI, automation, and the cosmos**. 🌌
 
-- 🔭 Currently working on: **Bale bots & web projects**
+- 🔭 Currently working on: **web projects**
 - 🌱 Learning: **Flask, AI Integration, WebSockets**
-- 💬 Ask me about: **Python, Bale API, HTML/CSS/JS**
+- 💬 Ask me about: **Python, HTML/CSS/JS**
 - ⚡ Fun fact: I'm fascinated by **space, hacking (ethically!), and Minecraft**
 
 ---
@@ -67,15 +67,6 @@ An online multiplayer gaming platform with real-time games like **XO, Rock-Paper
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 🤖 AHM Bale Bots
-A collection of smart bots for the **Bale messenger**:
-- A collection of useful and practical bots for the Bale messenger
-
-**Tech:** Python • Bale API
-
-</td>
 <td width="50%">
 
 ### 🧮 Galaxy Calculator
@@ -187,11 +178,11 @@ An online tool for creating **custom QR codes** with logos and unique designs.
 
 سلام! من **امیرحسین** هستم، یه **برنامه‌نویس پایتون** و **سازنده ربات** از ایران 🇮🇷.
 
-عاشق ساختن چیزهایی‌ام که زندگی رو راحت‌تر و باحال‌تر می‌کنن — از ربات‌های بله و تلگرام تا وب‌اپ‌ها و ابزارهای اوپن‌سورس. مسیرم با پایتون شروع شد و حالا دارم دنیای بی‌پایان **هوش مصنوعی، اتوماسیون و کهکشان** رو کشف می‌کنم. 🌌
+عاشق ساختن چیزهایی‌ام که زندگی رو راحت‌تر و باحال‌تر می‌کنن — از وب‌اپ‌ها تا ابزارهای اوپن‌سورس. مسیرم با پایتون شروع شد و حالا دارم دنیای بی‌پایان **هوش مصنوعی، اتوماسیون و کهکشان** رو کشف می‌کنم. 🌌
 
-- 🔭 الان روی: **ربات‌های بله و پروژه‌های وب** کار می‌کنم
+- 🔭 الان روی: **پروژه‌های وب** کار می‌کنم
 - 🌱 در حال یادگیری: **Flask، ادغام هوش مصنوعی، WebSockets**
-- 💬 از من بپرس درباره: **پایتون، Bale API، HTML/CSS/JS**
+- 💬 از من بپرس درباره: **پایتون، HTML/CSS/JS**
 - ⚡ یه نکته باحال: من عاشق **فضا، هک اخلاقی و ماینکرفت** هستم
 
 ---
@@ -206,7 +197,6 @@ An online tool for creating **custom QR codes** with logos and unique designs.
 
 - **🕵️ فضول سنج** — یه وب‌اپ باحال که درصد فضولی رو به شوخی نشون می‌ده
 - **🎮 WOE (دنیای سرگرمی)** — پلتفرم بازی آنلاین چندنفره با XO، سنگ کاغذ قیچی، مار و پله، اونو و ۸ تست شخصیت
-- **🤖 ربات‌های بله AHM** — AHM Roblox Codes، AHM Gamer Dict، AHM Weather
 - **🧮 Galaxy Calculator** — بهترین ماشین‌حساب کهکشان با حالت علمی و ۳ زبان
 - **💬 AHM Local Messenger** — پیام‌رسان محلی بدون نیاز به اینترنت
 - **📦 AHM QR Code Generator** — ساخت QR Code سفارشی با لوگو
