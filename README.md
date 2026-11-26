@@ -71,9 +71,7 @@ An online multiplayer gaming platform with real-time games like **XO, Rock-Paper
 
 ### 🤖 AHM Bale Bots
 A collection of smart bots for the **Bale messenger**:
-- **AHM Roblox Codes** — Roblox promo code database
-- **AHM Gamer Dict** — 300+ gaming terms dictionary
-- **AHM Weather** — Pro weather bot for all cities
+- A collection of useful and practical bots for the Bale messenger
 
 **Tech:** Python • Bale API
 
